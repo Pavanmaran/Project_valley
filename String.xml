@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project_valley_Beta</string>
+    <string name="title">Project : How to read sensors value using IoT ~@pavan_meena</string>
+    <string name="Description">IoT or Internet of things is also in list of today\'s Trending Technologies.
+        The soil moisture sensor is a simple device for measuring the moisture level in soil and similar materials.
+        The soil moisture sensor is straight forward to use.
+    The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of
+        the surrounding medium. In soil, dielectric permittivity is a function of the water content.
+        The sensor creates a voltage proportional to the dielectric permittivity,
+        and therefore the water content of the soil. <b/>
+        Measuring soil moisture is important for agricultural applications to
+        help farmers manage their irrigation systems efficiently. Knowing
+        the requirements of soil moisture conditions
+        for the fields, enables the farmers to use lesser water and increase
+        the yield and quality of the crop.
+    </string>
+    <string name="footer">All rights reseved @copyright 2021.
+        Design And developed by Pawan Meena and Ayush jain</string>
+</resources>
